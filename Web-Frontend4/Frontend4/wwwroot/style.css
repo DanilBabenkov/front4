@@ -1,0 +1,22 @@
+﻿/*.row > div{
+    height:80px;
+    border:1px solid #800;
+    background:#0094ff;
+    font-size:15px;
+    text-align:center;
+}*/
+.card {
+    padding: 10px;
+    background: #b6ff00;
+    margin-bottom: .75rem;
+}
+.cen{
+    position:absolute;
+    left:50%;
+    transform:translate(-50%);
+}
+.container{
+    /*border:1px solid #0026ff;*/
+    padding:10px;
+    background:#808080;
+}

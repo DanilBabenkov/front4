@@ -1,0 +1,11 @@
+C:\Users\пк\Source\Repos\Web-Frontend4\Frontend4\bin\Debug\netcoreapp2.0\Frontend4.deps.json
+C:\Users\пк\Source\Repos\Web-Frontend4\Frontend4\bin\Debug\netcoreapp2.0\Frontend4.runtimeconfig.json
+C:\Users\пк\Source\Repos\Web-Frontend4\Frontend4\bin\Debug\netcoreapp2.0\Frontend4.runtimeconfig.dev.json
+C:\Users\пк\Source\Repos\Web-Frontend4\Frontend4\bin\Debug\netcoreapp2.0\Frontend4.dll
+C:\Users\пк\Source\Repos\Web-Frontend4\Frontend4\bin\Debug\netcoreapp2.0\Frontend4.pdb
+C:\Users\пк\Source\Repos\Web-Frontend4\Frontend4\obj\Debug\netcoreapp2.0\Frontend4.csprojAssemblyReference.cache
+C:\Users\пк\Source\Repos\Web-Frontend4\Frontend4\obj\Debug\netcoreapp2.0\Frontend4.csproj.CoreCompileInputs.cache
+C:\Users\пк\Source\Repos\Web-Frontend4\Frontend4\obj\Debug\netcoreapp2.0\Frontend4.AssemblyInfoInputs.cache
+C:\Users\пк\Source\Repos\Web-Frontend4\Frontend4\obj\Debug\netcoreapp2.0\Frontend4.AssemblyInfo.cs
+C:\Users\пк\Source\Repos\Web-Frontend4\Frontend4\obj\Debug\netcoreapp2.0\Frontend4.dll
+C:\Users\пк\Source\Repos\Web-Frontend4\Frontend4\obj\Debug\netcoreapp2.0\Frontend4.pdb
